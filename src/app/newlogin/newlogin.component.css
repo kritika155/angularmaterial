@@ -1,0 +1,31 @@
+.container
+{
+   min-width:100px;
+   max-width: 600px;
+   width:100%;
+   margin-left:300px;
+   background-color:wheat;
+   padding: 100px;
+   color:red;
+   margin-top: 60px;
+   border:1px solid black;
+}
+.log
+{
+    min-width:100px;
+    max-width: 600px;
+    width:100%;
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    color:blue;
+  }
+  .example-form input::placeholder
+  {
+      color:red;
+  }
+  .example-full-width {
+    width: 100%;
+  }
